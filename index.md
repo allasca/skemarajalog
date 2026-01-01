@@ -1,3 +1,3 @@
-| Nama | Expired | KAMIS1 |
-| --- | --- | --- |
-| ERFAN MUKHLAS ALI | 2026/3/30 | 01:08 12:05 - |
+| Nama | Expired |
+| --- | --- |
+| ERFAN MUKHLAS ALI | 2026/3/30 |
