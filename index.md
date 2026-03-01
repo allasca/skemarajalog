@@ -1,4 +1,4 @@
-| Nama | Expired |
-| --- | --- |
-| ERFAN MUKHLAS ALI | 2040/3/30 |
-| ARNOLD PARMONANGAN SITORUS | 2030/3/30 |
+| Nama | Expired | MINGGU1 |
+| --- | --- | --- |
+| ERFAN MUKHLAS ALI | 2040/3/30 | 08:00 12:14 15:00 |
+| ARNOLD PARMONANGAN SITORUS | 2030/3/30 | 08:00 12:14 15:00 |
